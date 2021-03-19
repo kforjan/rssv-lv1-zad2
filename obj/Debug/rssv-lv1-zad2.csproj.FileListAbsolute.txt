@@ -1,0 +1,9 @@
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\bin\Debug\rssv-lv1-zad2.exe.config
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\bin\Debug\rssv-lv1-zad2.exe
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\bin\Debug\rssv-lv1-zad2.pdb
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\obj\Debug\rssv_lv1_zad2.Form1.resources
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\obj\Debug\rssv_lv1_zad2.Properties.Resources.resources
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\obj\Debug\rssv-lv1-zad2.csproj.GenerateResource.cache
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\obj\Debug\rssv-lv1-zad2.csproj.CoreCompileInputs.cache
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\obj\Debug\rssv-lv1-zad2.exe
+C:\Users\kreso\source\repos\rssv-lv1-zad2\rssv-lv1-zad2\obj\Debug\rssv-lv1-zad2.pdb
